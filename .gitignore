@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Eclipse / STS workspace (if this folder is opened as a workspace)
+.metadata/
+RemoteSystemsTempFiles/
+
+# build output
+**/target/
